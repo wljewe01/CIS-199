@@ -1,0 +1,20 @@
+E:\School\Louisville\Spring 2018\CIS 199\Labs\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\School\Louisville\Spring 2018\CIS 199\Labs\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\School\Louisville\Spring 2018\CIS 199\Labs\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\School\Louisville\Spring 2018\CIS 199\Labs\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+E:\School\Louisville\Spring 2018\CIS 199\Labs\Lab4\Lab4\obj\Debug\Lab4.LabForm.resources
+E:\School\Louisville\Spring 2018\CIS 199\Labs\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\School\Louisville\Spring 2018\CIS 199\Labs\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+E:\School\Louisville\Spring 2018\CIS 199\Labs\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\School\Louisville\Spring 2018\CIS 199\Labs\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\School\Louisville\Spring 2018\CIS 199\Labs\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\wjewe\Desktop\Grading\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\wjewe\Desktop\Grading\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\wjewe\Desktop\Grading\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\wjewe\Desktop\Grading\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\wjewe\Desktop\Grading\Lab4\Lab4\Lab4\obj\Debug\Lab4.LabForm.resources
+C:\Users\wjewe\Desktop\Grading\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\wjewe\Desktop\Grading\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\wjewe\Desktop\Grading\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\wjewe\Desktop\Grading\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\wjewe\Desktop\Grading\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb

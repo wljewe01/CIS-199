@@ -1,0 +1,14 @@
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_18S\Labs\Lab1\Lab1V1\Lab1\bin\Debug\Lab2.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_18S\Labs\Lab1\Lab1V1\Lab1\bin\Debug\Lab2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_18S\Labs\Lab1\Lab1V1\Lab1\bin\Debug\Lab2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_18S\Labs\Lab1\Lab1V1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_18S\Labs\Lab1\Lab1V1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_18S\Labs\Lab1\Lab1V1\Lab1\obj\Debug\Lab2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_18S\Labs\Lab1\Lab1V1\Lab1\obj\Debug\Lab2.pdb
+C:\Users\wjewe\Desktop\CIS 199\solutions\Lab1\Lab1V1\Lab1\bin\Debug\Lab2.exe.config
+C:\Users\wjewe\Desktop\CIS 199\solutions\Lab1\Lab1V1\Lab1\bin\Debug\Lab2.exe
+C:\Users\wjewe\Desktop\CIS 199\solutions\Lab1\Lab1V1\Lab1\bin\Debug\Lab2.pdb
+C:\Users\wjewe\Desktop\CIS 199\solutions\Lab1\Lab1V1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\wjewe\Desktop\CIS 199\solutions\Lab1\Lab1V1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\wjewe\Desktop\CIS 199\solutions\Lab1\Lab1V1\Lab1\obj\Debug\Lab2.exe
+C:\Users\wjewe\Desktop\CIS 199\solutions\Lab1\Lab1V1\Lab1\obj\Debug\Lab2.pdb

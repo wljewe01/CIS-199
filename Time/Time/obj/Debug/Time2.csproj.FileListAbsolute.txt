@@ -1,0 +1,5 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Deitel\Examples\ch10\fig10_05_06\Time2\Time2\bin\Debug\Time2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Deitel\Examples\ch10\fig10_05_06\Time2\Time2\bin\Debug\Time2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Deitel\Examples\ch10\fig10_05_06\Time2\Time2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Deitel\Examples\ch10\fig10_05_06\Time2\Time2\obj\Debug\Time2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Deitel\Examples\ch10\fig10_05_06\Time2\Time2\obj\Debug\Time2.pdb
